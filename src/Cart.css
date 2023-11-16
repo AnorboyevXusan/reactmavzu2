@@ -1,0 +1,43 @@
+/* Cart.css */
+
+/* Style for the container div */
+div {
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+ 
+}
+
+/* Style for the image */
+img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+
+p {
+  margin: 5px 0;
+}
+
+
+button {
+  background-color: rgb(174, 174, 219)
+  ;
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+  border: none;
+  padding:  10px 50px;
+}
+
+/* Hover effect for buttons */
+button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
